@@ -16,6 +16,12 @@ distribution, sediment organic matter, porewater nutrients, and oxygen/nutrient
 flux rates. This repository contains the R scripts used to process the data and
 reproduce all figures and statistical results reported in the manuscript.
 
+## Citation
+
+Göbeler N, Norkko A, Norkko J (2026) R code for: Season-specific effects of
+Marine Heatwaves on macrofaunal community composition and ecosystem processes.
+Version 1.0. Zenodo. https://doi.org/10.5281/zenodo.21504698
+
 ## Data availability
 
 The data underlying these scripts are openly available in the Bolin Centre
