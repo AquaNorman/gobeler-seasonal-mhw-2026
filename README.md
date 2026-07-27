@@ -25,7 +25,7 @@ Version 1.0. Zenodo. https://doi.org/10.5281/zenodo.21504698
 ## Data availability
 
 The data underlying these scripts are openly available in the Bolin Centre
-Database: [DOI to be added].
+Database: https://doi.org/10.17043/coastclim-gobeler-2026-seasonal-mhw-1
 
 ## Repository structure
 
